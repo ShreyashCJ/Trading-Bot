@@ -1,0 +1,9 @@
+time,strategy,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2023-01-26 09:30:00-05:00,MLTrader,TSLA,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-01-26 09:30:00-05:00,MLTrader,TSLA,buy,market,fill,1,gtc,0.0,1,stock,159.97000122070312,313.0,0.0
+2023-02-02 09:30:00-05:00,MLTrader,TSLA,sell,stop,canceled,1,day,0.0,1,stock,,,
+2023-02-02 09:30:00-05:00,MLTrader,TSLA,sell,limit,fill,1,day,0.0,1,stock,191.96400146484373,313.0,0.0
+2023-04-20 09:30:00-04:00,MLTrader,TSLA,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-04-20 09:30:00-04:00,MLTrader,TSLA,buy,market,fill,1,gtc,0.0,1,stock,164.8000030517578,334.0,0.0
+2023-04-25 09:30:00-04:00,MLTrader,TSLA,sell,limit,canceled,1,day,0.0,1,stock,,,
+2023-04-25 09:30:00-04:00,MLTrader,TSLA,sell,stop,fill,1,day,0.0,1,stock,156.56000289916992,334.0,0.0
